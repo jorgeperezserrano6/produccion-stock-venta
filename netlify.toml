@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/produccion-stock-ventas.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/produccion-stock-ventas"
+  to = "/"
+  status = 301
