@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Sirve la aplicación en la dirección principal del sitio
+[[redirects]]
+  from = "/"
+  to = "/produccion-stock-ventas.html"
+  status = 200
